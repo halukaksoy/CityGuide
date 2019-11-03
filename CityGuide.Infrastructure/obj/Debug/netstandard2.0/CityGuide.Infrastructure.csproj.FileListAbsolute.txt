@@ -1,0 +1,13 @@
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\CityGuide.Infrastructure.deps.json
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\CityGuide.Infrastructure.dll
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\obj\Debug\netstandard2.0\CityGuide.Infrastructure.csprojAssemblyReference.cache
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\obj\Debug\netstandard2.0\CityGuide.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\obj\Debug\netstandard2.0\CityGuide.Infrastructure.AssemblyInfo.cs
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\CityGuide.Infrastructure.pdb
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\CityGuide.Domain.dll
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\CityGuide.Domain.pdb
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\obj\Debug\netstandard2.0\CityGuide.Infrastructure.csproj.CopyComplete
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\obj\Debug\netstandard2.0\CityGuide.Infrastructure.dll
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\obj\Debug\netstandard2.0\CityGuide.Infrastructure.pdb
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\haluk\Google Drive\Dell Documents\Development\Training\Udemy\AngularAspNetCore\CityGuide\CityGuide\CityGuide.Infrastructure\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Features.xml
