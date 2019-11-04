@@ -1,25 +1,40 @@
+
 # City Guide Sample Project With -.net Core 3.0 - Angular 8
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+This sample project was generated with [.net Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.0&tabs=windows) and [Angular 8](https://angular.io/docs) 
 
 ## Database
 
-Run `add-migration inital` and `update-database` for local database creation. 
+Run`add-migration Inital` and `update-database` for local database creation in Package Manager Console
  
 
-## Cloudinary Accounts
+## Cloudinary Integration
 
-Modify cloudinary settings in `appSettings.json`
+Modify cloudinary api key settings in `appSettings.json`
 
-https://cloudinary.com/
+[Cloudinary](https://cloudinary.com/)
 
-## Build
+## Build and Run
+
+ 1. Build and Run`CityGuide.API` to localhost on **Visual Studio 2019**
+ 2. `ng build` and `ng serve --open` to localhost on **Visual Studio Code**
+ 
+ > Check the local API Url in service.ts files
+
+## Using NPM Packages for Client App
 
 
-## Extra Packages
+- `npm install bootstrap`
+- `npm install alertifyjs`
+- `npm install font-awesome`
+- `npm install bootswatch`
+- `npm install ngx-gallery`
 
-[Jquery]
-[Bootstrap]
-[AlertifyJs]
+> gesturehammer errorr fix :
+> [Stackverflow](https://stackoverflow.com/questions/57099273/how-to-fix-error-typeerror-class-constructor-hammergestureconfig-cannot-be-invo)
 
-[Update Coming Soon]
+- `npm install rxjs-compat`
+- `npm install @auth0/angular-jwt`
+-  `npm install ngx-editor`
+- `npm install ngx-bootstrap`
+- `npm install ng2-file-upload --save`
